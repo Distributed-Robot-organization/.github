@@ -13,7 +13,7 @@ Welcome to the GitHub organization of **Distributed-Robot-organization**, where 
 
 ### 📁 Our Repositories
 
-- 🔧 [Documentation_Climb](link) — Docs, designs, and references  
+- 🔧 [Documentation_Distributed](link) — Docs, designs, and references  
 - 🧠 [ros2_ws](link) — ROS 2 workspace for simulation robot  
 - 📊 [Matlab_Scirpts](link) — Data analysis and other stuff about MATLAB  
 
