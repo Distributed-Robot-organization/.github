@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the GitHub organization of **Distributed-Robot-organization**, where we develop innovative robotic solutions for extreme environments.
+Welcome to the GitHub organization of **Distributed-Robot-organization**, where we develop a type of distributed control and planning using some mobiles robots.
 
 ---
 
