@@ -13,9 +13,9 @@ Welcome to the GitHub organization of **Distributed-Robot-organization**, where 
 
 ### 📁 Our Repositories
 
-- 🔧 [Documentation_Distributed](link) — Docs, designs, and references  
-- 🧠 [ros2_ws](link) — ROS 2 workspace for simulation robot  
-- 📊 [Matlab_Scirpts](link) — Data analysis and other stuff about MATLAB  
+- 🔧 [Documentation_Distributed](https://github.com/Distributed-Robot-organization/Documentation-Project) — Docs, designs, and references  
+- 🧠 [ros2_ws](https://github.com/Distributed-Robot-organization/RosProject) — ROS 2 workspace for simulation robot  
+
 
 
 
