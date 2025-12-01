@@ -8,7 +8,7 @@ Welcome to the GitHub organization of **Distributed-Robot-organization**, where 
   
 
 🔗 [Repository about shelfini](https://github.com/pla10)
-
+🔗 [Link PDF REPORT](https://github.com/Distributed-Robot-organization/RosProject/blob/main/Distributed_Project.pdf)
 ---
 
 ### 📁 Our Repositories
